@@ -1,0 +1,7 @@
+var questions_rounds = ['Name a Bad Job for Someone Who\'s Accident Prone', 'Name a Garment You\'d Probably Find in the Dressing Room for a Pro Wrestling Event', 'Name an Article of Clothing You Can\'t Wash in the Wash Machine', 'Name what people said they would do this week to become better versions of themselves'];
+var answers_rounds = [[['Driver', 33], ['Construction', 20], ['Police Officer', 11], ['Food Service', 12], ['Glass Maker', 9], ['Window Washer', 9], ['Surgeon', 6]], [['Tights', 32], ['Shorts', 17], ['Mask', 15], ['Robe', 9], ['Belt', 8], ['Cape', 8], ['Leotard', 7]], [['Shoe', 29], ['Bra', 21], ['Hat', 16], ['Coat', 13], ['Sweater', 9], ['Suit', 7], ['Gown', 3]], [['Study', 33], ['Get up Earlier', 15], ['Pray More', 30], ['Organize', 16]]];
+var multiplicator = [10, 10, 10, 30];
+var questions_finals = ['Name something found in a movie studio.', 'Name someone people call when they\'re in trouble.', 'Name a Mark Twain character.', 'Name something people cut.'];
+var answers_finals = [[['Camera', 66], ['Actor/Actress', 8], ['Lights', 8], ['Props', 7], ['Director', 3], ['Set', 3], ['Script', 2]], [['Police', 77], ['Minister', 7], ['Lawyer', 5], ['Fire Department', 3], ['Parent', 3], ['Friends', 2]], [['Tom Sawyer', 68], ['Huckleberry Finn', 20], ['Becky Thatcher', 20]], [['Hair', 49], ['Paper', 12], ['Meat', 10], ['Grass', 7], ['Finger', 6], ['Fingernail', 3]]];
+var timers = [20, 25];
+

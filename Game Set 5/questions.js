@@ -1,0 +1,7 @@
+var questions_rounds = ['Name a Job that Many Celebrities had Before they were Famous', 'Name a Language that You Often see Restaurant Menus Written in', 'Other than a Bull Name a Big Animal You Wouldn\'t Want in Your China Shop', 'What virtues were mentioned last meeting when we were asked about what virtue we would want to be remembered for'];
+var answers_rounds = [[['Waiter/Waitress', 40], ['Model', 20], ['Cook', 15], ['Washing Cars', 15]], [['English', 36], ['French', 22], ['Spanish', 11], ['Italian', 14], ['Chinese', 5]], [['Elephant', 47], ['Cow', 20], ['Horse ', 10], ['Bear', 8], ['Hippo', 4], ['Rhino', 4], ['Moose', 3]], [['Kindness', 55], ['Friendly', 20], ['Honest / Truthful', 10], ['Patience', 5], ['Charity', 5], ['Chastity', 5]]];
+var multiplicator = [30, 20, 10, 30];
+var questions_finals = ['Name Something People Buy to Show they are Successful', 'Name a Reason Other Than Hard Work That Your Boss Would Give You a Raise', 'Name Something You Would Hate to Find Under Your Bed', 'Name Something People do While Riding a Rollercoaster'];
+var answers_finals = [[['Car', 45], ['House', 41], ['Jewelry', 6], ['Suit', 4], ['Boat', 3]], [['Dating the Boss', 54], ['On Time/Attendance', 16], ['Blackmail', 12], ['Flattery', 5]], [['Monster', 43], ['Snake', 16], ['Food', 12], ['Spider', 10], ['Rodent', 8], ['Dust', 4], ['Person', 3]], [['Scream', 43], ['Hold their arms up', 32], ['Get Sick', 13], ['Laugh', 4], ['Close their Eyes', 4]]];
+var timers = [20, 25];
+

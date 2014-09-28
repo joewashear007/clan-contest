@@ -1,0 +1,7 @@
+var questions_rounds = ['Name Something that a Man Had Better Not Take Along on His Honeymoon', 'Name Something a Customer Might do to Annoy a Waitress', 'When She\'s Run Out of Money What Might a Gambler Put on the Table?', 'Keywords form last meeting\'s videos'];
+var answers_rounds = [[['Another Woman', 33], ['Cellphone', 17], ['His Parents', 14], ['Work/Laptop', 12], ['His Best Friend', 6], ['Golf Clubs', 5], ['His Pet', 4]], [['Send Food Back', 40], ['Not Tip', 35], ['Flirt', 6], ['Snap Fingers', 5], ['Spill Drinks', 4]], [['Jewelry ', 40], ['Car Keys ', 20], ['Clothing', 10], ['Deeds to House', 5]], [['Best Version of Yourself', 40], ['Rebel', 5], ['Choices', 10], ['Virtue', 15], ['God\'s Dreams', 20], ['Modern Culture', 10]]];
+var multiplicator = [10, 10, 10, 30];
+var questions_finals = ['Name Something a Man Wouldn\'t Want to Have Happen to Him While He\'s Giving a Speech', 'Reason someone might make fun of your car.', 'Name something you try to avoid when camping in the woods.', 'Name an animal mentioned in the bible.'];
+var answers_finals = [[['Fly is Open', 40], ['Burp', 20], ['Get Laughed At', 10], ['Break Wind', 10], ['Get Heckled', 10], ['Stutter', 8], ['Coughing', 2]], [['Old', 29], ['Dirty', 23], ['Color/Paint Job', 21], ['Has dents/Beat up', 8], ['Too Small', 5], ['Too Big', 3]], [['Bears', 42], ['Bugs', 33], ['Snakes', 20], ['Skunk', 2]], [['Ass', 35], ['Sheep', 32], ['Snake', 12], ['Lion', 7], ['Dove', 6], ['Ox', 3]]];
+var timers = [20, 25];
+
